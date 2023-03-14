@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello RESTEasy";
+        return "Hello RESTEasy March 14, 2023 modification";
     }
 }
